@@ -40,3 +40,4 @@ fn main() {
  let mut a = [2,3,2];
  let s = a.len();
    println!("{}",chinese_remainder(&mut n,&mut a,s));
+}
